@@ -1,8 +1,8 @@
-# Raspberry Pi Midi pedalboard (switcher-looper-controler)
+# Raspberry Pi Midi pedalboard (switcher-looper-controller)
 
 An Open Source Open Hardware project for an ultimate midi foot controler for any musician needs
 
-Will be inspired from my last project (electric guitar preamplifier) using Raspberry Pi Midi Audio Controler, driving rotary-encoders, I2C digital potentiometers (digipots), 24xLEDs-bargraphs used as real time true VU-Meters and Digipots position display, I2C LCD for displaying values and menues, and few dry loops as I/O controls.
+Will be inspired from my last project (electric guitar preamplifier) using Raspberry Pi Midi Audio Controller, driving rotary-encoders, I2C digital potentiometers (digipots), 24xLEDs-bargraphs used as real time true VU-Meters and Digipots position display, I2C LCD for displaying values and menues, and few dry loops as I/O controls.
 
 Will be writed in pure ANSI C language.
 
