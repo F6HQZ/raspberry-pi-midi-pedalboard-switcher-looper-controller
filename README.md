@@ -12,6 +12,9 @@ This work is for my own needs first, but will be extended to everybody wanting t
 
 As exemple, I need to understand all what people want as embedded functions, capabilities for this kind of "intelligent pedalboard" to avoid to forget some...
 
+Check the Wiki page for this project :
+https://github.com/F6HQZ/raspberry-pi-midi-pedalboard-switcher-looper-controller/wiki
+
 You can contact me for any discussion or help regarding this project at F6HQZ-m@hamwlan.net
 
 Have fun and good music !
